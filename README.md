@@ -1,2 +1,2 @@
-# chromebook_japanese_local
+# chromebook_japanese_locale
 ChromebookのLinux環境で、日本語入力可能にする自動化スクリプト
